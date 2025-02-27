@@ -2,13 +2,11 @@ body{
     margin:0;
     padding: 0;
     height: 100%;
-
 }
 main{
     display: grid;
     padding: 10px;
     margin: 5px;gap: 15px;
-    
 }
 .parentgrid1{
     display: grid;
@@ -22,8 +20,6 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-
-
 }
 .first{
      background-color: #007F5F; 
@@ -71,9 +67,7 @@ main{
 .eigth{
     background-color: #AACC00; 
     grid-row: span 2;
-    
-
-}
+ }
 .ninth{
     background-color: #D4D700; 
     grid-row: span 4;
@@ -93,6 +87,7 @@ main{
 h1{
     background-color: #9BC1BC;
     padding: 20px;
+    font-family: 'Ramaraja',sans-serif;
 }
 
 
